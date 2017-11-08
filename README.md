@@ -50,7 +50,7 @@ None.
 
     - hosts: all
       roles:
-        - geerlingguy.ntp
+        - oussemos.ntp
 
 *Inside `vars/main.yml`*:
 
